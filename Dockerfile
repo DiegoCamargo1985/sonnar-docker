@@ -1,3 +1,3 @@
-FROM sonarqube:lts-community
+FROM php:8.3-apache
 
-EXPOSE 9000
+EXPOSE 80
